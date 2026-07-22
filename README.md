@@ -57,7 +57,7 @@ We can help with:
 
 We aim to respond as quickly as possible. Thank you for being part of our community!
 
-## SEO Metadata
+## SEO Metadata🫰
 
 ```
 Title: Multi-Chain USDT Sender – Send USDT Across TRC20, ERC20, BEP20
